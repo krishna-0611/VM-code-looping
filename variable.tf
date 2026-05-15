@@ -1,0 +1,3 @@
+variable "looping-vm" {
+
+}
