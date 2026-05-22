@@ -10,7 +10,5 @@ looping-vm = {
     nic-name            = "rocket-nic"
     vm-name             = "frontend-vm"
     size                = "Standard_D2s_v3"
-    admin_username      = "krishna0611"
-    admin_password      = "Password@0611"
   }
 }
